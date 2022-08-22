@@ -1,5 +1,5 @@
 # FashionWebPage
-The first draft of a fashion webpage requested by a client, inspired in unifclothing.com
+The first draft of a fashion webpage requested by a client, inspired in https://unifclothing.com
 
 Made with React.js
 
