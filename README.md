@@ -1,7 +1,7 @@
 # FashionWebPage
 A responsive fashion webpage requested by a client. 
 
-Made with React.js and tailwind CSS
+Made with React.js and tailwind CSS.
 
 Avaliable at https://galesha.netlify.app/
 
